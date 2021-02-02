@@ -58,7 +58,7 @@ public class Bug {
     }
 
 
-    public long getId() {
+    public Long getId() {
         return id;
     }
 
